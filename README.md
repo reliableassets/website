@@ -1,19 +1,19 @@
-# Foxi - Astro Theme
+# AssetPulse - Astro Theme
 
 Open-source Astro website template with fully responsive, customizable TailwindCSS components.
 
-![just-the-basics](https://oxygenna-themes.b-cdn.net/foxi-astro/foxi.png)
+![just-the-basics](https://oxygenna-themes.b-cdn.net/AssetPulse-astro/AssetPulse.png)
 
-[![View live Demo](https://oxygenna-themes.b-cdn.net/foxi-astro/button-demo.svg)](https://foxi.netlify.app)
-[![Page Speed Insights (100%)](https://oxygenna-themes.b-cdn.net/foxi-astro/button-pagespeed.svg)](https://pagespeed.web.dev/analysis/https-foxi-netlify-app/c9ig3t85mu?form_factor=desktop)
+[![View live Demo](https://oxygenna-themes.b-cdn.net/AssetPulse-astro/button-demo.svg)](https://AssetPulse.netlify.app)
+[![Page Speed Insights (100%)](https://oxygenna-themes.b-cdn.net/AssetPulse-astro/button-pagespeed.svg)](https://pagespeed.web.dev/analysis/https-AssetPulse-netlify-app/c9ig3t85mu?form_factor=desktop)
 
 ## Introduction
 
 ### About
 
-Foxi is a free, highly customizable, and production-ready template for Astro, utilizing Tailwind CSS components. Designed with developers in mind, Foxi offers a solid foundation for building modern, high-performance websites quickly and efficiently.
+AssetPulse is a free, highly customizable, and production-ready template for Astro, utilizing Tailwind CSS components. Designed with developers in mind, AssetPulse offers a solid foundation for building modern, high-performance websites quickly and efficiently.
 
-![just-the-basics](https://oxygenna-themes.b-cdn.net/foxi-astro/pagespeedscore.svg)
+![just-the-basics](https://oxygenna-themes.b-cdn.net/AssetPulse-astro/pagespeedscore.svg)
 
 ### Features
 
@@ -50,7 +50,7 @@ After downloading the template, you'll need to install some dependencies. Once t
 
 ### Folder structure
 
-Inside Foxi Astro project, you'll see the following folders and files:
+Inside AssetPulse Astro project, you'll see the following folders and files:
 
 ```plaintext
 /
@@ -172,4 +172,4 @@ Released under the MIT license.
 
 You can join our community on [Discord](https://discord.gg/YC5Eup8ZEx)!
 
-[![Hire Us](https://oxygenna-themes.b-cdn.net/foxi-astro/hireus.png)](mailto:info@oxygenna.com,christos@oxygenna.com)
+[![Hire Us](https://oxygenna-themes.b-cdn.net/AssetPulse-astro/hireus.png)](mailto:info@oxygenna.com,christos@oxygenna.com)

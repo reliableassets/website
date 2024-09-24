@@ -32,21 +32,34 @@ const avatars = [
 	<Row>
 		<Col span="2" />
 		<Col span="8" align="center">
-			<ChipNotification radius="rounded-full" classes="mb-6">
+			<!-- <ChipNotification radius="rounded-full" classes="mb-6">
 				<strong>30K+</strong> satisfied customers
 				<AvatarGroup avatars={avatars} radius="rounded-full" slot="button" />
-			</ChipNotification>
-			<h1>Enhance team <strong>performance</strong> with seamless integration</h1>
+			</ChipNotification> -->
+			<h1>
+				<strong>Asset health insights</strong>
+				<br />
+				to reduce downtime and optimize productivity
+			</h1>
 
-			<p class="pb-0 text-lg">Work smarter, not harder, with our innovative platform</p>
+			<p class="pb-0 text-lg">
+				Cloud-based telemetry and analytics platform that aggregates critical data from assets,
+				putting deep insights at asset operator's fingertips to predict &amp; resolve asset issues
+				proactively.
+			</p>
 			<Button size="lg" link="/">Get started for free</Button>
+			<Button
+				size="lg"
+				link="https://calendly.com/adhamankar/assetpulse-product-offering"
+				classes="ms-2">Book a demo</Button
+			>
 		</Col>
 		<Col span="2" />
 		<Col span="2" />
 		<Col span="8">
 			<Image
 				src={heroImage}
-				alt="Foxi. The tailwind astro theme"
+				alt="AssetPulse. Predict and resolve asset performance issues"
 				class="translate-y-8 shadow-2xl shadow-neutral-200 dark:shadow-neutral-950"
 				format="webp"
 			/></Col

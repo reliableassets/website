@@ -20,9 +20,9 @@ type Props = {
 	bgPosition?: 'left' | 'right' | 'center'
 }
 const {
-	blockquote = 'Foxi is like a rocket boost for our productivity! Its sleek design and out-of-this-world features make managing projects and team communication a breeze.',
-	figcaption = 'Sheryl Sandberg',
-	cite = 'CEO, Facebook',
+	blockquote = 'We understand how important it is for all your assets to function all the time. Here are tools and services we offer.',
+	figcaption = '',
+	cite = '',
 	bg,
 	bgPosition = 'center'
 } = Astro.props
@@ -39,12 +39,11 @@ const {
 		<Col span="12">
 			<Testimonial
 				blockquote={blockquote}
-				figcaption={figcaption}
-				cite={cite}
+				figcaption={figcaption}				
 				align="center"
 				size="4xl"
 				mobileSize="2xl"
-				classes="!leading-tight font-bold xl:text-5xl max-w-4xl mx-auto"
+				classes="!leading-tight font-thin xl:text-5xl max-w-4xl mx-auto"
 				quoteSize={112}
 			/>
 		</Col>

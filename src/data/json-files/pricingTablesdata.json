@@ -2,32 +2,7 @@
 	{
 		"header": {
 			"title": "Basic",
-			"subtitle": "Ideal for individual developers.",
-			"currency": "$",
-			"price": "19",
-			"priceLabel": "month, billed anually",
-			"priceMontly": "25",
-			"priceLabelMontly": "month",
-			"buttonName": "Try for free",
-			"buttonLink": "/"
-		},
-		"body": {
-			"listItems": [
-				{ "listItem": "Join forces with fellow architects" },
-				{ "listItem": "Present your projects with flair and captivate your audience." },
-				{ "listItem": "Immerse yourself in the dynamic realm of architecture." }
-			]
-		},
-		"footer": {
-			"buttonName": "See all features",
-			"buttonLink": "/"
-		},
-		"type": "basic"
-	},
-	{
-		"header": {
-			"title": "Team",
-			"subtitle": "Ideal for small teams",
+			"subtitle": "Ideal for small enterprises.",
 			"currency": "$",
 			"price": "29",
 			"priceLabel": "month, billed anually",
@@ -38,10 +13,37 @@
 		},
 		"body": {
 			"listItems": [
-				{ "listItem": "Join forces with fellow architects" },
-				{ "listItem": "Present your projects with flair and captivate your audience." },
-				{ "listItem": "Immerse yourself in the dynamic realm of architecture." },
-				{ "listItem": "Unlock endless inspiration" }
+				{ "listItem": "Manage upto 50 assets" },
+				{ "listItem": "Manage upto 2 meters per asset" },
+				{ "listItem": "Automate upto 3 maintenance plans" },
+				{ "listItem": "Create 1 scorecard" }
+			]
+		},
+		"footer": {
+			"buttonName": "See all features",
+			"buttonLink": "/"
+		},
+		"type": "basic"
+	},
+	{
+		"header": {
+			"title": "Essentials",
+			"subtitle": "Ideal for small and medium enterprises",
+			"currency": "$",
+			"price": "49",
+			"priceLabel": "month, billed anually",
+			"priceMontly": "65",
+			"priceLabelMontly": "month",
+			"buttonName": "Try for free",
+			"buttonLink": "/"
+		},
+		"body": {
+			"listItems": [
+				{ "listItem": "Manage upto 500 assets" },
+				{ "listItem": "Manage upto 10 meters per asset" },
+				{ "listItem": "Automate upto 100 maintenance plans" },
+				{ "listItem": "Manage upto 10 scorecards" },
+				{ "listItem": "Manage investment plans" }
 			]
 		},
 		"footer": {
@@ -53,20 +55,23 @@
 	{
 		"header": {
 			"title": "Enterprise",
-			"subtitle": "Ideal for companies",
-			"currency": "$",
-			"price": "49",
+			"subtitle": "Ideal for medium and large enterprises",
+			"currency": "",
+			"price": "Contact us",
 			"priceLabel": "month, billed anually",
-			"priceMontly": "65",
+			"priceMontly": "Contact us",
 			"priceLabelMontly": "month",
 			"buttonName": "Try for free",
 			"buttonLink": "/"
 		},
 		"body": {
 			"listItems": [
-				{ "listItem": "Join forces with fellow architects" },
-				{ "listItem": "Present your projects with flair and captivate your audience." },
-				{ "listItem": "Immerse yourself in the dynamic realm of architecture." }
+				{ "listItem": "Manage 500+ assets" },
+				{ "listItem": "Manage all asset meters" },
+				{ "listItem": "Automate maintenance planing across all assets" },
+				{ "listItem": "Manage scorecards for all asset types" },
+				{ "listItem": "Manage investment plans" },
+				{ "listItem": "Customization support for asset related data ingestion" }
 			]
 		},
 		"footer": {

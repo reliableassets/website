@@ -35,13 +35,13 @@ export interface FooterData {
 
 export const footerNavigationData: FooterData = {
 	footerAbout: {
-		title: 'Foxi.',
+		title: 'AssetPulse.',
 		aboutText:
-			'Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. Just copy and paste them on your Tailwind CSS project.',
+			'Ready to start your asset reliability journey, gain insights and make informed decisions to achieve high performance?',
 		logo: {
 			src: '/logo.svg',
-			alt: 'The tailwind astro theme',
-			text: 'Foxi.'
+			alt: 'AssetPulse logo',
+			text: 'AssetPulse.'
 		}
 	},
 	footerColumns: [
@@ -106,6 +106,6 @@ export const footerNavigationData: FooterData = {
 		}
 	],
 	subFooter: {
-		copywriteText: '© Foxi 2024.'
+		copywriteText: '© AssetPulse 2024.'
 	}
 }
